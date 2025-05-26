@@ -5,11 +5,11 @@ hydra-core
 lightning
 loguru
 numpy
-opencv-python
+opencv #opencv-python opencv
 Pillow
 pycocotools
 requests
 rich
-torch
+pytorch #torch
 torchvision
 wandb
